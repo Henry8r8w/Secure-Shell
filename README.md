@@ -8,6 +8,8 @@ Build the shell:
   - gcc -Wall -o minishell bourne-shell/b-shell_main.c bourne-shell/b-shell_function.c
   - ./minishell
 
+
+
 Commands to try:
 - Run external programs: `ls`, `echo hello`
 - Use pipelines: `echo hello | tr a-z A-Z`
@@ -20,7 +22,7 @@ Commands to try:
 Run tests:
   ./tests/run_tests.sh
 
-
+https://github.com/user-attachments/assets/6bc11fcb-615b-4e2a-a315-7d65fef3cec0
 
 Inspiration
 -----------
