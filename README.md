@@ -11,8 +11,7 @@ Build the shell:
 Commands to try:
 - Run external programs: `ls`, `echo hello`
 - Use pipelines: `echo hello | tr a-z A-Z`
-- Search text: `grep pattern file`
-- Chain tools: `cat file | grep pattern | sort`
+<!--- - Search text: `grep pattern file` - Chain tools: `cat file | grep pattern | sort` --->
 - Redirect output: `echo hi > out.txt`
 - Redirect input: `cat < out.txt`
 - Background jobs: `sleep 5 &`
