@@ -16,7 +16,7 @@ char *strdup(const char *s) {
 #endif
 
 void print_prompt(void) {
-    printf("myshell> ");
+    printf("secure-shell-yet> ");
     fflush(stdout);
 }
 
